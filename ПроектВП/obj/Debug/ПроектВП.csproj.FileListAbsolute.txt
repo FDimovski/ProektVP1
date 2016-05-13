@@ -1,0 +1,24 @@
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\bin\Debug\ПроектВП.exe.config
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\bin\Debug\ПроектВП.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\bin\Debug\ПроектВП.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.Form1.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.Properties.Resources.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.exe
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.pdb
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.InstructionForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.LoginForm.resources
+C:\Users\Filip\Documents\Visual Studio 2015\Projects\Vizuelno_Programiranje\Proekt\ПроектВП\ПроектВП\obj\Debug\ПроектВП.GameForm.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\bin\Debug\ПроектВП.exe.config
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.exe
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.pdb
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\bin\Debug\ПроектВП.exe
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\bin\Debug\ПроектВП.pdb
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.csprojResolveAssemblyReference.cache
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.Form1.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.GameForm.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.InstructionForm.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.LoginForm.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.Properties.Resources.resources
+C:\Users\vasko\Desktop\ПроектВП\ПроектВП\obj\Debug\ПроектВП.csproj.GenerateResource.Cache
